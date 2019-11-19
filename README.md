@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+create “redux-quickstart” project
+### `npx create-react-app redux-quickstart`
+
+access the ./redux-quickstart directory and run:
+### `npm start`
+
+Install redux na pasta do projeto
+### `npm install redux react-redux`
+
+Dependecy from classname
+### `npm install classnames --save`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
